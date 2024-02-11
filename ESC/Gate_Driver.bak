@@ -12,13 +12,11 @@
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (symbol "UCC27624_0_1"
+    (symbol "UCC27624_1_1"
       (rectangle (start 2.54 8.89) (end 15.24 -1.27)
         (stroke (width 0) (type default))
-        (fill (type none))
+        (fill (type background))
       )
-    )
-    (symbol "UCC27624_1_1"
       (pin input line (at 0 7.62 0) (length 2.54)
         (name "ENA" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
