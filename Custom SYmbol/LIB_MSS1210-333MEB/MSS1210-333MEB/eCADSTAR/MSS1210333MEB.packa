@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MSS1210-333MEB"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-08-26-09:21:04)
+    (mountForm default
+        (footprintRef "MSS1210333MEB")
+        (spec "System")
+    )
+)

@@ -1,0 +1,9 @@
+Manufacturer=COILCRAFT
+PartNumber=MSS1210-333MEB
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=1.7
+Released=2020-08-26 09:21:04
+Downloaded=2024-02-15 19:17:47
+3D=Y

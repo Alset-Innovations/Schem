@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MSS1210-333MEB
+D Fixed Inductors 33uH Shld 20% 5.9A 39mOhms AECQ2
+K
+F https://www.coilcraft.com/getmedia/f1a1bc5f-bdff-42f8-9ca8-1a0fb1d5094f/MSS1210.pdf
+$ENDCMP
+#
+#End Doc Library

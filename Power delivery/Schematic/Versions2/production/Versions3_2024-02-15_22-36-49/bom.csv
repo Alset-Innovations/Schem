@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"Cboot1, Cinx1",C_Disc_D3.4mm_W2.1mm_P2.50mm,2,100n,
+Cff1,C_Disc_D3.4mm_W2.1mm_P2.50mm,1,~,
+Cin1,CP_Radial_D5.0mm_P2.50mm,1,10u,
+Cout1,CP_Radial_D12.5mm_P5.00mm,1,~,
+Css1,C_Disc_D3.4mm_W2.1mm_P2.50mm,1,33n,
+"Jin1, Jout1",SolderWire-0.1sqmm_1x02_P3.6mm_D0.4mm_OD1mm_Relief,2,Conn_01x02,
+L2,IND_MULTICOMP_MCSCH895_MTC,1,MCSCH895-100LU,
+Rfbb1,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1,10k,
+Rfbt1,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,1,~,
+U1,SOT-583-8,1,TPS62932,

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MSS1210_333MEB'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "COILCRAFT", "MSS1210-333MEB" (!) = "", "MSS1210333MEB", "Other", "", "", "Fixed Inductors 33uH Shld 20% 5.9A 39mOhms AECQ2", "https://www.coilcraft.com/getmedia/f1a1bc5f-bdff-42f8-9ca8-1a0fb1d5094f/MSS1210.pdf", "10.2 mm"
+END_PART
+
+END.

@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_12817729"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-08-26-09:21:04)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "MSS1210-333MEB")
+)
+
+
+(pinAssign "ECS_12817729"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-08-26-09:21:04)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_12817729")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "MSS1210-333MEB")
+)
+
+
+(part "MSS1210-333MEB"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-08-26-09:21:04)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "MSS1210-333MEB")
+    (pinAssignRef "ECS_12817729")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "L")
+    (property "description" "Fixed Inductors 33uH Shld 20% 5.9A 39mOhms AECQ2")
+    (property "Farnell_Part_Number" "")
+    (property "Farnell_Price/Stock" "")
+    (property "Manufacturer_Name" "COILCRAFT")
+    (property "Manufacturer_Part_Number" "MSS1210-333MEB")
+    (property "Datasheet_Link" "https://www.coilcraft.com/getmedia/f1a1bc5f-bdff-42f8-9ca8-1a0fb1d5094f/MSS1210.pdf")
+    (property "compAreaTopHeight" 10.2)
+)
+
+
