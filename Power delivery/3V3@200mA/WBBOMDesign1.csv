@@ -1,0 +1,9 @@
+﻿Part,Manufacturer,Part Number,Quantity,Price ($),Footprint (mm²),Description
+Cout,MuRata,GRM188R60J226MEA0D,2,0.04,4.68,Cap: 22 µF  Total Derated Cap: 16 µF  VDC: 6.3 V  ESR: 1 mΩ  Package: 0603  
+L1,NIC Components,NPI31W4R7MTRF,1,0.2312,172.5,L: 4.7 µH  DCR: 18 mΩ  IDC: 4.8 A  
+Cboot,MuRata,GRM155R71A104KA01D,1,0.01,3,Cap: 100 nF  Total Derated Cap: 100 nF  VDC: 10 V  ESR: 1 mΩ  Package: 0402  
+U1,Texas Instruments,TPS563300DRLR,1,0.18,8.06,
+Cinx,TDK,CGA3E2X7R1H104K080AA,1,0.01,4.68,Cap: 100 nF  Total Derated Cap: 100 nF  VDC: 50 V  ESR: 29.6 mΩ  Package: 0603  
+Cin,TDK,C3216X5R1H106K160AB,1,0.24,10.92,Cap: 10 µF  Total Derated Cap: 2.8 µF  VDC: 50 V  ESR: 1 mΩ  Package: 1206_180  
+Rfbb,Vishay-Dale,CRCW040210K0FKED,1,0.01,3,Resistance: 10 kΩ  Tolerance: 1.0%  Power: 63 mW  
+Rfbt,Vishay-Dale,CRCW040230K9FKED,1,0.01,3,Resistance: 30.9 kΩ  Tolerance: 1.0%  Power: 63 mW  

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DRV8302DCA'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "DRV8302DCA" (!) = "", "SOP50P810X120-57N", "Small Outline Packages", "", "", "3-Phase Brushless Motor Pre-Driver DRV8302DCA, Motor Driver, 3-Phase Motor Driver, 200kHz 8 ??? 60 V, 56-Pin HTSSOP", "http://www.ti.com/lit/ds/symlink/drv8302.pdf", "1.2 mm"
+END_PART
+
+END.
