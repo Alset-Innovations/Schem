@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IPP015N04NF2SAKMA1
+D MOSFET
+K
+F https://www.mouser.it/datasheet/2/196/Infineon_IPP015N04NF2S_DataSheet_v02_00_EN-3164869.pdf
+$ENDCMP
+#
+#End Doc Library

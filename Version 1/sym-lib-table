@@ -8,4 +8,7 @@
   (lib (name "YAAJ_BluePill_Part_Like")(type "Legacy")(uri "C:/Users/lauwy/RSP-CLOUD/School/Jaar 3/PROJ4/Kicad-STM32/Symbols/YAAJ_BluePill_Part_Like.lib")(options "")(descr ""))
   (lib (name "YAAJ_BluePill_Part_Like_SWD_Breakout")(type "Legacy")(uri "C:/Users/lauwy/RSP-CLOUD/School/Jaar 3/PROJ4/Kicad-STM32/Symbols/YAAJ_BluePill_Part_Like_SWD_Breakout.lib")(options "")(descr ""))
   (lib (name "YAAJ_BluePill_SWD_Breakout")(type "Legacy")(uri "C:/Users/lauwy/RSP-CLOUD/School/Jaar 3/PROJ4/Kicad-STM32/Symbols/YAAJ_BluePill_SWD_Breakout.lib")(options "")(descr ""))
+  (lib (name "2024-02-15_20-52-33")(type "KiCad")(uri "C:/Users/lauwy/RSP-CLOUD/School/Jaar 3/PROJ4/Schem/Custom SYmbol/ul_MCSCH895-100LU/KiCADv6/2024-02-15_20-52-33.kicad_sym")(options "")(descr ""))
+  (lib (name "IPP015N04NF2SAKMA1")(type "Legacy")(uri "C:/Users/lauwy/RSP-CLOUD/School/Jaar 3/PROJ4/Schem/Custom SYmbol/LIB_IPP015N04NF2SAKMA1/IPP015N04NF2SAKMA1.lib")(options "")(descr ""))
+  (lib (name "YAAJ_BlackPill_SWD_BreakoutV2")(type "KiCad")(uri "${KIPRJMOD}/YAAJ_BlackPill_SWD_BreakoutV2.kicad_sym")(options "")(descr ""))
 )
