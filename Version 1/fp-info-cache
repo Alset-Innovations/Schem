@@ -1,4 +1,4 @@
-23054818778893769
+23056530247067561
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55864,8 +55864,8 @@ YAAJ_BlackPill_SWD_1
 BlackPill module with pin headers / sockets. SWD broken out to PCB.
 module BlackPill Black Pill header SWD breakout
 0
-38
-38
+65
+44
 Footprints
 YAAJ_BlackPill_SWD_2
 BlackPill module with pin headers / sockets. SWD broken out to PCB.
@@ -87128,6 +87128,13 @@ rotary encoder
 0
 7
 6
+STM32
+Blackpill
+BlackPill module with pin headers / sockets. SWD broken out to PCB.
+module BlackPill Black Pill header SWD breakout
+0
+44
+44
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
