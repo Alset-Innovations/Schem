@@ -1949,7 +1949,7 @@
 		)
 		(fp_arc
 			(start 15.70391 -13.191849)
-			(mid 16.279999 -12.568861)
+			(mid 16.27999 -12.568861)
 			(end 15.669059 -11.98)
 			(stroke
 				(width 0.3)
@@ -1960,7 +1960,7 @@
 		)
 		(fp_arc
 			(start 15.70391 -8.611849)
-			(mid 16.279999 -7.988861)
+			(mid 16.27999 -7.988861)
 			(end 15.669059 -7.4)
 			(stroke
 				(width 0.3)
@@ -2624,9 +2624,10 @@
 				"90a01283-8db9-492f-bc36-0716b94cb909" "b20d4b7a-1e8f-458d-bffb-31e1f9aa2a59"
 			)
 		)
-		(model "D:/Users/admin/Documents/KiCad/Libraries/packages3d/Modules/STM32_Black_Pill/YAAJ_BlackPill_PinHeaders_B_SWD_cp.wrl"
+		(model "C:/Users/lauwy/RSP-CLOUD/School/Jaar 3/PROJ4/Schem/Custom SYmbol/Black Pill.step"
+			(hide yes)
 			(offset
-				(xyz 0 0 0)
+				(xyz 25.4 10.4 4.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -2635,15 +2636,15 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "D:/Users/admin/Documents/KiCad/Libraries/packages3d/Modules/STM32_Black_Pill/YAAJ_BlackPill_PinSockets_B_SWD_cp.wrl"
+		(model "C:/Users/lauwy/RSP-CLOUD/School/Jaar 3/PROJ4/Schem/Custom SYmbol/3dexport_balckpill_f401_v10_step_1656786165/BalckPill_F401 v31.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 0 0 3)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 0 0)
 			)
 		)
 	)
@@ -5072,6 +5073,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/lauwy/RSP-CLOUD/School/Jaar 3/PROJ4/Schem/Custom SYmbol/MP2182GTL-Z--3DModel-STEP-56544.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 90)
+			)
+		)
 	)
 	(footprint "Inductor_THT:L_Axial_L13.0mm_D4.5mm_P7.62mm_Vertical_Fastron_HCCC"
 		(layer "F.Cu")
@@ -6769,6 +6781,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/lauwy/RSP-CLOUD/School/Jaar 3/PROJ4/Schem/Custom SYmbol/MP2182GTL-Z--3DModel-STEP-56544.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 90)
 			)
 		)
 	)
@@ -10651,11 +10674,22 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/lauwy/RSP-CLOUD/School/Jaar 3/PROJ4/Schem/Custom SYmbol/MP2182GTL-Z--3DModel-STEP-56544.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 90)
+			)
+		)
 	)
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "4ce1038d-01da-4376-9e23-aeb360718bd0")
-		(at 97.79 52.07)
+		(at 109.22 67.31)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D3"
@@ -11541,7 +11575,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "55a8632a-25e7-49ea-85fe-9b895f0de8b8")
-		(at 92.71 36.35)
+		(at 104.14 51.59)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R13"
@@ -12065,7 +12099,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "62f115d0-602d-4b7b-947e-71dbdf22fe62")
-		(at 92.71 40.4)
+		(at 104.14 55.64)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R14"
@@ -13621,7 +13655,7 @@
 	(footprint "LIB_IPP015N04NF2SAKMA1:TO254P475X1028X1996-3P"
 		(layer "F.Cu")
 		(uuid "81b29f10-a2bf-4e9d-9c24-85b22723567f")
-		(at 114.3 44.5)
+		(at 125.73 59.74)
 		(descr "PG-TO220-3-U05")
 		(tags "MOSFET (N-Channel)")
 		(property "Reference" "Q3"
@@ -13916,6 +13950,17 @@
 		(model "IPP015N04NF2SAKMA1.stp"
 			(offset
 				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/lauwy/RSP-CLOUD/School/Jaar 3/PROJ4/Schem/Custom SYmbol/TO-220-1.step"
+			(offset
+				(xyz 2.5 3.5 4.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -17605,7 +17650,7 @@
 	(footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
 		(layer "F.Cu")
 		(uuid "9872019a-474b-47c0-aabf-0f3ba93d2e39")
-		(at 106.214775 38.03)
+		(at 117.644775 53.27)
 		(descr "CP, Radial series, Radial, pin pitch=2.50mm, , diameter=5mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 2.50mm  diameter 5mm Electrolytic Capacitor")
 		(property "Reference" "C7"
@@ -22291,7 +22336,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "aae18fa5-fa61-46cc-a8fc-807890a98d8a")
-		(at 92.71 44.45)
+		(at 104.14 59.69)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R15"
@@ -22815,7 +22860,7 @@
 	(footprint "Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm"
 		(layer "F.Cu")
 		(uuid "b073e5fb-ac77-429b-b165-d77033db7b04")
-		(at 108.500225 31.51)
+		(at 119.930225 46.75)
 		(descr "C, Disc series, Radial, pin pitch=2.50mm, , diameter*width=3.4*2.1mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf")
 		(tags "C Disc series Radial pin pitch 2.50mm  diameter 3.4mm width 2.1mm Capacitor")
 		(property "Reference" "C6"
@@ -25113,6 +25158,17 @@
 		(model "IPP015N04NF2SAKMA1.stp"
 			(offset
 				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/lauwy/RSP-CLOUD/School/Jaar 3/PROJ4/Schem/Custom SYmbol/TO-220-1.step"
+			(offset
+				(xyz 2.5 3.5 4.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -29188,7 +29244,18 @@
 		)
 		(model "IPP015N04NF2SAKMA1.stp"
 			(offset
+				(xyz 2.5 3.5 4.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/lauwy/RSP-CLOUD/School/Jaar 3/PROJ4/Schem/Custom SYmbol/TO-220-1.step"
+			(offset
+				(xyz 2.5 3.5 4.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -29518,7 +29585,7 @@
 	(footprint "LIB_IPP015N04NF2SAKMA1:TO254P475X1028X1996-3P"
 		(layer "F.Cu")
 		(uuid "d290f7e7-6db0-4024-ae0a-22e135f314a5")
-		(at 114.3 50.8)
+		(at 125.73 66.04)
 		(descr "PG-TO220-3-U05")
 		(tags "MOSFET (N-Channel)")
 		(property "Reference" "Q4"
@@ -29813,6 +29880,17 @@
 		(model "IPP015N04NF2SAKMA1.stp"
 			(offset
 				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/lauwy/RSP-CLOUD/School/Jaar 3/PROJ4/Schem/Custom SYmbol/TO-220-1.step"
+			(offset
+				(xyz 2.5 3.5 4.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -30644,6 +30722,17 @@
 		(model "IPP015N04NF2SAKMA1.stp"
 			(offset
 				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/lauwy/RSP-CLOUD/School/Jaar 3/PROJ4/Schem/Custom SYmbol/TO-220-1.step"
+			(offset
+				(xyz 2.5 3.5 4.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -32315,7 +32404,18 @@
 		)
 		(model "IPP015N04NF2SAKMA1.stp"
 			(offset
+				(xyz 2.5 3.5 4.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "C:/Users/lauwy/RSP-CLOUD/School/Jaar 3/PROJ4/Schem/Custom SYmbol/TO-220-1.step"
+			(offset
+				(xyz 2.5 3.5 4.5)
 			)
 			(scale
 				(xyz 1 1 1)
