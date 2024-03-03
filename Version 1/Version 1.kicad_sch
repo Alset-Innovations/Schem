@@ -11616,7 +11616,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "IRS2004PBF:DIP762W56P254L988H533Q8N"
 			(at 189.23 104.14 0)
 			(effects
 				(font
@@ -13742,7 +13742,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "IRS2004PBF:DIP762W56P254L988H533Q8N"
 			(at 148.59 104.14 0)
 			(effects
 				(font
@@ -16461,7 +16461,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "IRS2004PBF:DIP762W56P254L988H533Q8N"
 			(at 229.87 104.14 0)
 			(effects
 				(font

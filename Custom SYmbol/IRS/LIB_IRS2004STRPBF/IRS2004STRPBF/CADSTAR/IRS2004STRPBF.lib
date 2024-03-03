@@ -1,0 +1,16 @@
+.IRS2004STRPBF :1 ;Infineon IRS2004STRPBF Dual Half Bridge MOSFET Power Driver, 10  20 V, Non-Inverting, SOIC 8-Pin
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="VCC" 2="IN" 3="'SD'" 4="COM" 5="LO" 6="VS" 7="HO" 8="VB"
+*MXP 8
+*DFN IRS2004STRPBF
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (Infineon)
+~!Manufacturer_Part_Number (IRS2004STRPBF)
+~!Link Datasheet (https://www.infineon.com/cms/en/product/power/gate-driver-ics/?)
+~!Height (1.75mm)
+~!3D_Model (IRS2004STRPBF)
+IRS2004STRPBF
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

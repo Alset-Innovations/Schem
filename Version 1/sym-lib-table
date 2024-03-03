@@ -11,4 +11,6 @@
   (lib (name "2024-02-15_20-52-33")(type "KiCad")(uri "C:/Users/lauwy/RSP-CLOUD/School/Jaar 3/PROJ4/Schem/Custom SYmbol/ul_MCSCH895-100LU/KiCADv6/2024-02-15_20-52-33.kicad_sym")(options "")(descr ""))
   (lib (name "IPP015N04NF2SAKMA1")(type "Legacy")(uri "C:/Users/lauwy/RSP-CLOUD/School/Jaar 3/PROJ4/Schem/Custom SYmbol/LIB_IPP015N04NF2SAKMA1/IPP015N04NF2SAKMA1.lib")(options "")(descr ""))
   (lib (name "YAAJ_BlackPill_SWD_BreakoutV2")(type "KiCad")(uri "${KIPRJMOD}/YAAJ_BlackPill_SWD_BreakoutV2.kicad_sym")(options "")(descr ""))
+  (lib (name "IRS2004PBF")(type "KiCad")(uri "C:/Users/lauwy/RSP-CLOUD/School/Jaar 3/PROJ4/Schem/Custom SYmbol/IRS/LIB_IRS2004PBF/IRS2004PBF/KiCad/IRS2004PBF.kicad_sym")(options "")(descr ""))
+  (lib (name "IRS2004STRPBF")(type "Legacy")(uri "C:/Users/lauwy/RSP-CLOUD/School/Jaar 3/PROJ4/Schem/Custom SYmbol/IRS/LIB_IRS2004STRPBF/IRS2004STRPBF/KiCad/IRS2004STRPBF.lib")(options "")(descr ""))
 )

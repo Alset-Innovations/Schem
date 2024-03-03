@@ -1,0 +1,16 @@
+.IRS2004PBF :1 ;Infineon IRS2004PBF Dual MOSFET Power Driver, 0.6A Half Bridge, 10  20 V 8-Pin, PDIP
+DIP762W56P254L988H533Q8N
+*STM IC
+*NGS
+*PLB 1="VCC" 2="IN" 3="'SD'" 4="COM" 5="LO" 6="VS" 7="HO" 8="VB"
+*MXP 8
+*DFN IRS2004PBF
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (Infineon)
+~!Manufacturer_Part_Number (IRS2004PBF)
+~!Link Datasheet (https://www.infineon.com/cms/en/product/power/gate-driver-ics/?)
+~!Height (5.33mm)
+~!3D_Model (IRS2004PBF)
+IRS2004PBF
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

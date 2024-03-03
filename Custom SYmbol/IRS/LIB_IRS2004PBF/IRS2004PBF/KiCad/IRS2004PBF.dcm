@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRS2004PBF
+D Infineon IRS2004PBF Dual MOSFET Power Driver, 0.6A Half Bridge, 10  20 V 8-Pin, PDIP
+K
+F https://www.infineon.com/cms/en/product/power/gate-driver-ics/?
+$ENDCMP
+#
+#End Doc Library

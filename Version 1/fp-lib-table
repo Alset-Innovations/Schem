@@ -2,4 +2,6 @@
   (version 7)
   (lib (name "Footprints")(type "KiCad")(uri "C:/Users/lauwy/RSP-CLOUD/School/Jaar 3/PROJ4/Kicad-STM32/Footprints")(options "")(descr ""))
   (lib (name "LIB_IPP015N04NF2SAKMA1")(type "KiCad")(uri "C:/Users/lauwy/RSP-CLOUD/School/Jaar 3/PROJ4/Schem/Custom SYmbol/LIB_IPP015N04NF2SAKMA1")(options "")(descr ""))
+  (lib (name "IRS2004PBF")(type "KiCad")(uri "C:/Users/lauwy/RSP-CLOUD/School/Jaar 3/PROJ4/Schem/Custom SYmbol/IRS/LIB_IRS2004PBF/IRS2004PBF/KiCad")(options "")(descr ""))
+  (lib (name "IRS2004STRPBF")(type "KiCad")(uri "C:/Users/lauwy/RSP-CLOUD/School/Jaar 3/PROJ4/Schem/Custom SYmbol/IRS/LIB_IRS2004STRPBF/IRS2004STRPBF/KiCad")(options "")(descr ""))
 )

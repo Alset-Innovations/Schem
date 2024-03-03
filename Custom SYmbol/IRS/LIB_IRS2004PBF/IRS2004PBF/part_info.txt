@@ -1,0 +1,9 @@
+Manufacturer=Infineon
+PartNumber=IRS2004PBF
+PartCategory=Integrated Circuit
+PackageCategory=Dual-In-Line Packages
+PinCount=8
+Version=7.2
+Released=2018-08-14 11:16:18
+Downloaded=2024-03-03 21:47:29
+3D=Y
