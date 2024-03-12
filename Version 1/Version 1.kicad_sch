@@ -12492,7 +12492,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "39d82677-2850-42b8-8a8e-2da88a029d37")
-		(property "Reference" "J_USART"
+		(property "Reference" "J_USART1"
 			(at 173.99 190.4999 0)
 			(effects
 				(font
@@ -12552,7 +12552,7 @@
 		(instances
 			(project "Version 1"
 				(path "/1b67c1a2-c765-4a1d-8ccd-1a2054fe1222"
-					(reference "J_USART")
+					(reference "J_USART1")
 					(unit 1)
 				)
 			)
@@ -13790,7 +13790,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "636f2bca-a4d0-4e0a-b461-1b65c8e4ea01")
-		(property "Reference" "J_SPI"
+		(property "Reference" "J_SPI1"
 			(at 172.72 227.3299 0)
 			(effects
 				(font
@@ -13856,7 +13856,7 @@
 		(instances
 			(project "Version 1"
 				(path "/1b67c1a2-c765-4a1d-8ccd-1a2054fe1222"
-					(reference "J_SPI")
+					(reference "J_SPI1")
 					(unit 1)
 				)
 			)
