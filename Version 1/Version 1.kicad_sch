@@ -12510,7 +12510,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_ACH_BM04B-ACHSS-A-GAN-ETF_1x04-1MP_P1.20mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical"
 			(at 171.45 190.5 0)
 			(effects
 				(font
@@ -13254,7 +13254,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 160.782 165.1 90)
 			(effects
 				(font
@@ -13808,7 +13808,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x06_P1.27mm_Vertical"
 			(at 170.18 227.33 0)
 			(effects
 				(font
@@ -14359,7 +14359,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 155.702 165.1 90)
 			(effects
 				(font
@@ -16340,7 +16340,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_ACH_BM04B-ACHSS-A-GAN-ETF_1x04-1MP_P1.20mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical"
 			(at 171.45 173.99 0)
 			(effects
 				(font
@@ -16755,7 +16755,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 155.702 215.9 90)
 			(effects
 				(font
