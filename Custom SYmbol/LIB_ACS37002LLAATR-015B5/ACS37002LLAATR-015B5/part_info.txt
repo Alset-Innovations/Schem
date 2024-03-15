@@ -1,0 +1,9 @@
+Manufacturer=Allegro Microsystems
+PartNumber=ACS37002LLAATR-015B5
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=16
+Version=8.1
+Released=2021-01-17 04:32:47
+Downloaded=2024-03-14 14:42:26
+3D=Y

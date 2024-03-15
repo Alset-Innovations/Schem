@@ -1,0 +1,16 @@
+.ACS37002LLAATR-015B5 :1 ;400 kHz, High Accuracy Current Sensor with Pin-Selectable Gains
+SOIC127P1030X265-16N
+*STM IC
+*NGS
+*PLB 1="IP+_1" 2="IP+_2" 3="IP+_3" 4="IP+_4" 5="IP-_1" 6="IP-_2" 7="IP-_3" 8="IP-_4" 9="'OCF'" 10="VCC" 11="VOC" 12="VIOUT" 13="VREF" 14="GAIN_SEL_1" 15="GND" 16="GAIN_SEL_0"
+*MXP 16
+*DFN ACS37002LLAATR-015B5
+~!Mouser Part Number (250-37002LLAATR015B5)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Allegro-MicroSystems/ACS37002LLAATR-015B5?qs=vvQtp7zwQdNXxQ%2F%252Blf3Qug%3D%3D)
+~!Manufacturer_Name (Allegro Microsystems)
+~!Manufacturer_Part_Number (ACS37002LLAATR-015B5)
+~!Link Datasheet (https://www.allegromicro.com/-/media/files/datasheets/acs37002-datasheet.pdf?sc_lang=en)
+~!Height (2.65mm)
+~!3D_Model (ACS37002LLAATR-015B5)
+ACS37002LLAATR-015B5
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACS37002LLAATR-015B5
+D 400 kHz, High Accuracy Current Sensor with Pin-Selectable Gains
+K
+F https://www.allegromicro.com/-/media/files/datasheets/acs37002-datasheet.pdf?sc_lang=en
+$ENDCMP
+#
+#End Doc Library
