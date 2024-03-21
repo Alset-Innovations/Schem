@@ -36,10 +36,7 @@ ConstraintManagerFlow=1
 IsVirtualBomDocumentRemoved=0
 OutputPath=Project Outputs
 LogFolderPath=..\Panel Templates\Project Logs
-ManagedProjectGUID=1AF7B53A-1695-4397-9FF1-9F04DE0BC586
-VaultGUID=7A2BD5C7-F9E3-466D-B11A-A9192A5BFE11
-ReleaseVaultName=De Haagse Hoge School
-ItemGUID=1AF7B53A-1695-4397-9FF1-9F04DE0BC586
+ManagedProjectGUID=
 Template=dxp://VaultExplorer:Navigate_URL?VaultGUID=7A2BD5C7-F9E3-466D-B11A-A9192A5BFE11&ItemGUID=5BE0CC0B-D62F-464B-8E07-71D8970E2960&RevisionGUID=F2C52398-EDFF-4742-B91B-17425D6B394E&"MainFilename=PCB_Project1.PrjPCB"
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
