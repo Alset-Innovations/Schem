@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model LFXTAL062558Reel
+#/1341736/1328299/2.50/2/4/Crystal or Oscillator
+DEF LFXTAL062558Reel Y 0 30 Y Y 1 F N
+F0 "Y" 350 250 50 H V L CNN
+F1 "LFXTAL062558Reel" 350 150 50 H V L CNN
+F2 "LFXTAL062558Reel" 350 50 50 H I L CNN
+F3 "https://www.iqdfrequencyproducts.com/products/pn/LFXTAL062558Reel.pdf" 350 -50 50 H I L CNN
+F4 "Crystals 32.7680kHz 2.0 x 1.2 x 0.6mm" 350 -150 50 H I L CNN "Description"
+F5 "0.6" 350 -250 50 H I L CNN "Height"
+F6 "449-LFXTAL062558REEL" 350 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/IQD/LFXTAL062558Reel?qs=nFovR%252B4R4UPP00SQMD0J1g%3D%3D" 350 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "IQD" 350 -550 50 H I L CNN "Manufacturer_Name"
+F9 "LFXTAL062558Reel" 350 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 2 0 0 100 R 50 50 0 0 P
+X ~  400 0 100 L 50 50 0 0 P
+P 2 0 1 6 120 100 120 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 5 0 1 6 160 140 160 -140 240 -140 240 140 160 140 N
+P 2 0 1 6 280 0 300 0 N
+P 2 0 1 6 120 0 100 0 N
+ENDDRAW
+ENDDEF
+#
+#End Library

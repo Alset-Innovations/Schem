@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_1341736"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-01-06-18:02:37)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "LFXTAL062558Reel")
+)
+
+
+(pinAssign "ECS_1341736"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-01-06-18:02:37)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "CRYSTAL_1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "CRYSTAL_2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_1341736")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "LFXTAL062558Reel")
+)
+
+
+(part "LFXTAL062558Reel"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-01-06-18:02:37)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "LFXTAL062558Reel")
+    (pinAssignRef "ECS_1341736")
+    (interface
+        (port "1" (symbPinId 1) (portName "CRYSTAL_1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "CRYSTAL_2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "Y")
+    (property "description" "Crystals 32.7680kHz 2.0 x 1.2 x 0.6mm")
+    (property "Mouser_Part_Number" "449-LFXTAL062558REEL")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/IQD/LFXTAL062558Reel?qs=nFovR%252B4R4UPP00SQMD0J1g%3D%3D")
+    (property "Manufacturer_Name" "IQD")
+    (property "Manufacturer_Part_Number" "LFXTAL062558Reel")
+    (property "Datasheet_Link" "https://www.iqdfrequencyproducts.com/products/pn/LFXTAL062558Reel.pdf")
+    (property "compAreaTopHeight" 0.6)
+)
+
+

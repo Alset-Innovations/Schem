@@ -1,0 +1,9 @@
+Manufacturer=Torex
+PartNumber=XC6223T331MR-G
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (5-Pin)
+PinCount=5
+Version=1.1
+Released=2020-11-27 09:27:56
+Downloaded=2024-03-16 22:07:09
+3D=Y

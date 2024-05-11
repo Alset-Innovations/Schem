@@ -1,0 +1,65 @@
+(Japanese_coding: sjis)
+(function "ECS_247818"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-05-13-07:48:27)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "XFL4020-102MEC")
+)
+
+
+(pinAssign "ECS_247818"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-05-13-07:48:27)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_247818")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "XFL4020-102MEC")
+)
+
+
+(part "XFL4020-102MEC"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-05-13-07:48:27)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "XFL4020-102MEC")
+    (pinAssignRef "ECS_247818")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "L")
+    (property "description" "COILCRAFT - XFL4020-102MEC - INDUCTOR, 1UH, 11A, 20%, PWR, 64MHZ")
+    (property "Mouser_Part_Number" "994-XFL4020-102MEC")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Coilcraft/XFL4020-102MEC?qs=zCSbvcPd3pbaYHL7viZwQA%3D%3D")
+    (property "Manufacturer_Name" "COILCRAFT")
+    (property "Manufacturer_Part_Number" "XFL4020-102MEC")
+    (property "Datasheet_Link" "https://www.coilcraft.com/pdfs/xfl4020.pdf")
+)
+
+

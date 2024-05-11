@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPS61022RWUT'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TPS61022RWUT" (!) = "", "TPS61022RWUT", "Other", "595-TPS61022RWUT", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS61022RWUT?qs=vLWxofP3U2xU7G%2FuAQNIxA%3D%3D", "Switching Voltage Regulators 8-A boost converter with 0.5-V ultra-low input voltage 7-VQFN-HR -40 to 125", "http://www.ti.com/lit/ds/symlink/tps61022.pdf", "1 mm"
+END_PART
+
+END.

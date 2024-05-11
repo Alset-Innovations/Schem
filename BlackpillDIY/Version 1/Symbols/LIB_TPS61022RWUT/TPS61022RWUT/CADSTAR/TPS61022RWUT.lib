@@ -1,0 +1,16 @@
+.TPS61022RWUT :1 ;Switching Voltage Regulators 8-A boost converter with 0.5-V ultra-low input voltage 7-VQFN-HR -40 to 125
+TPS61022RWUT
+*STM IC
+*NGS
+*PLB 1="GND" 2="SW" 3="VOUT" 4="FB" 5="EN" 6="MODE" 7="VIN"
+*MXP 7
+*DFN TPS61022RWUT
+~!Mouser Part Number (595-TPS61022RWUT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS61022RWUT?qs=vLWxofP3U2xU7G%2FuAQNIxA%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TPS61022RWUT)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/tps61022.pdf)
+~!Height (1mm)
+~!3D_Model (TPS61022RWUT)
+TPS61022RWUT
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 

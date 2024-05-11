@@ -1,0 +1,15 @@
+.LFXTAL084882Reel :1 ;Crystals 32.768kHz Wtch Crysl 3.2 x 1.5mm 12.5pF
+LFXTAL084882Reel
+*STM Y
+*NGS
+*PLB 1="CRYSTAL_1" 2="CRYSTAL_2"
+*MXP 2
+*DFN LFXTAL084882Reel
+~!Mouser Part Number (449-LFXTAL084882REEL)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/IQD/LFXTAL084882Reel?qs=pBJMDPsKWf284s4hpo0v2g%3D%3D)
+~!Manufacturer_Name (IQD)
+~!Manufacturer_Part_Number (LFXTAL084882Reel)
+~!Link Datasheet (https://media.digikey.com/pdf/Data%20Sheets/Wurth%20Electronics%20PDFs/LFXTAL084882Reel.pdf)
+~!Height (0.9mm)
+LFXTAL084882Reel
+1.1!U 2.1!U 

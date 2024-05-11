@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "LFXTAL084882Reel"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-06-02-07:22:19)
+    (mountForm default
+        (footprintRef "LFXTAL084882Reel")
+        (spec "System")
+    )
+)

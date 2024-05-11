@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "LFXTAL084882Reel"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "LFXTAL084882Reel")
+        (spec "default")
+    )
+)

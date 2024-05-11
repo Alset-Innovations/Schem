@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=SF-0603SP050-2
+PartCategory=Fuse
+PackageCategory=Fuses Chip
+PinCount=2
+Version=1.1
+Released=2022-09-08 14:27:00
+Downloaded=2024-03-17 16:22:24
+3D=Y

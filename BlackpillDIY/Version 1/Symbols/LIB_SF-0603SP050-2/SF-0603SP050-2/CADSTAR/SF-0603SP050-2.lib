@@ -1,0 +1,16 @@
+.SF-0603SP050-2 :1 ;BOURNS - SF-0603SP050-2 - Fuse, Surface Mount, 500 mA, SinglFuse SF-0603SP Series, 50 V, Time Delay, 0603
+FUSC1608X55N
+*STM F
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN SF-0603SP050-2
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (SF-0603SP050-2)
+~!Link Datasheet (https://g.componentsearchengine.com/Datasheets/2/SF-0603SP050-2.pdf)
+~!Height (0.55mm)
+~!3D_Model (SF-0603SP050-2)
+SF-0603SP050-2
+1.1!U 2.1!U 

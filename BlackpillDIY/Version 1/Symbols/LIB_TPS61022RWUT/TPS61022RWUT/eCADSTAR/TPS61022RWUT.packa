@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TPS61022RWUT"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-05-03-10:28:02)
+    (mountForm default
+        (footprintRef "TPS61022RWUT")
+        (spec "System")
+    )
+)

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SF_0603SP050_2'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bourns", "SF-0603SP050-2" (!) = "", "FUSC1608X55N", "Fuses Chip", "", "", "BOURNS - SF-0603SP050-2 - Fuse, Surface Mount, 500 mA, SinglFuse SF-0603SP Series, 50 V, Time Delay, 0603", "https://g.componentsearchengine.com/Datasheets/2/SF-0603SP050-2.pdf", "0.55 mm"
+END_PART
+
+END.

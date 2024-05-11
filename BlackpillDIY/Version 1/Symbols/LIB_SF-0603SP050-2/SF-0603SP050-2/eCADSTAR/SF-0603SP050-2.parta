@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_625278"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-09-08-14:27:00)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "SF-0603SP050-2")
+)
+
+
+(pinAssign "ECS_625278"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-09-08-14:27:00)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_625278")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "SF-0603SP050-2")
+)
+
+
+(part "SF-0603SP050-2"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2022-09-08-14:27:00)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "SF-0603SP050-2")
+    (pinAssignRef "ECS_625278")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "F")
+    (property "description" "BOURNS - SF-0603SP050-2 - Fuse, Surface Mount, 500 mA, SinglFuse SF-0603SP Series, 50 V, Time Delay, 0603")
+    (property "Farnell_Part_Number" "")
+    (property "Farnell_Price/Stock" "")
+    (property "Manufacturer_Name" "Bourns")
+    (property "Manufacturer_Part_Number" "SF-0603SP050-2")
+    (property "Datasheet_Link" "https://g.componentsearchengine.com/Datasheets/2/SF-0603SP050-2.pdf")
+    (property "compAreaTopHeight" 0.55)
+)
+
+

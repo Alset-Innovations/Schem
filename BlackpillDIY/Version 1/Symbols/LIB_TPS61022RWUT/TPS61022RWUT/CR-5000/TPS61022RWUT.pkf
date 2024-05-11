@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "TPS61022RWUT"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "TPS61022RWUT")
+        (spec "default")
+    )
+)

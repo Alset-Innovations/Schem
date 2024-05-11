@@ -1,0 +1,9 @@
+Manufacturer=IQD
+PartNumber=LFXTAL084882Reel
+PartCategory=Crystal or Oscillator
+PackageCategory=Other
+PinCount=2
+Version=1.4
+Released=2022-06-02 07:22:19
+Downloaded=2024-03-16 22:52:45
+3D=N

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XFL4020-102MEC
+D COILCRAFT - XFL4020-102MEC - INDUCTOR, 1UH, 11A, 20%, PWR, 64MHZ
+K
+F https://www.coilcraft.com/pdfs/xfl4020.pdf
+$ENDCMP
+#
+#End Doc Library

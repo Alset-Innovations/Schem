@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LIB_LFXTAL062558Reel")(type "KiCad")(uri "/home/luuk/Documents/GitHub/Traccy/Buddy Tracker/Schematic/V1/Symbols/LIB_LFXTAL062558Reel/LFXTAL062558Reel/KiCad")(options "")(descr ""))
+  (lib (name "LIB_LFXTAL084882Reel")(type "KiCad")(uri "${KIPRJMOD}/Symbols/LIB_LFXTAL084882Reel")(options "")(descr "")(disabled))
+  (lib (name "LIB_SF-0603SP050-2")(type "KiCad")(uri "${KIPRJMOD}/Symbols/LIB_SF-0603SP050-2/SF-0603SP050-2/KiCad")(options "")(descr ""))
+  (lib (name "LIB_TPS61022RWUT")(type "KiCad")(uri "${KIPRJMOD}/Symbols/LIB_TPS61022RWUT/TPS61022RWUT/KiCad")(options "")(descr ""))
+  (lib (name "LIB_XC6223T331MR-G")(type "KiCad")(uri "${KIPRJMOD}/Symbols/LIB_XC6223T331MR-G/XC6223T331MR-G/KiCad")(options "")(descr ""))
+  (lib (name "LIB_XFL4020-102MEC")(type "KiCad")(uri "${KIPRJMOD}/Symbols/LIB_XFL4020-102MEC")(options "")(descr "")(disabled))
+)

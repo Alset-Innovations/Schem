@@ -1,0 +1,16 @@
+.LFXTAL062558Reel :1 ;Crystals 32.7680kHz 2.0 x 1.2 x 0.6mm
+LFXTAL062558Reel
+*STM Y
+*NGS
+*PLB 1="CRYSTAL_1" 2="CRYSTAL_2"
+*MXP 2
+*DFN LFXTAL062558Reel
+~!Mouser Part Number (449-LFXTAL062558REEL)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/IQD/LFXTAL062558Reel?qs=nFovR%252B4R4UPP00SQMD0J1g%3D%3D)
+~!Manufacturer_Name (IQD)
+~!Manufacturer_Part_Number (LFXTAL062558Reel)
+~!Link Datasheet (https://www.iqdfrequencyproducts.com/products/pn/LFXTAL062558Reel.pdf)
+~!Height (0.6mm)
+~!3D_Model (LFXTAL062558Reel)
+LFXTAL062558Reel
+1.1!U 2.1!U 

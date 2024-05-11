@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LFXTAL084882Reel
+D Crystals 32.768kHz Wtch Crysl 3.2 x 1.5mm 12.5pF
+K
+F https://media.digikey.com/pdf/Data%20Sheets/Wurth%20Electronics%20PDFs/LFXTAL084882Reel.pdf
+$ENDCMP
+#
+#End Doc Library

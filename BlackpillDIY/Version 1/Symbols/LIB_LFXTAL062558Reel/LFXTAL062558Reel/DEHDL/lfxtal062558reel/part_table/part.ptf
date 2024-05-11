@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LFXTAL062558Reel'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "IQD", "LFXTAL062558Reel" (!) = "", "LFXTAL062558Reel", "Other", "449-LFXTAL062558REEL", "https://www.mouser.co.uk/ProductDetail/IQD/LFXTAL062558Reel?qs=nFovR%252B4R4UPP00SQMD0J1g%3D%3D", "Crystals 32.7680kHz 2.0 x 1.2 x 0.6mm", "https://www.iqdfrequencyproducts.com/products/pn/LFXTAL062558Reel.pdf", "0.6 mm"
+END_PART
+
+END.

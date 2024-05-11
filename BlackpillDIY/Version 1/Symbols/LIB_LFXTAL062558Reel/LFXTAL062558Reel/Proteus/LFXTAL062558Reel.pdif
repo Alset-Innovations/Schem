@@ -1,0 +1,110 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "LFXTAL062558Reel"
+   (description "Crystals 32.7680kHz 2.0 x 1.2 x 0.6mm")
+   (family "OSC")
+   (package "LFXTAL062558Reel")
+   (attribute "Datasheet Link" "https://www.iqdfrequencyproducts.com/products/pn/LFXTAL062558Reel.pdf")
+   (attribute "Geometry.Height" "0.6mm")
+   (attribute "Mouser Part Number" "449-LFXTAL062558REEL")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/IQD/LFXTAL062558Reel?qs=nFovR%252B4R4UPP00SQMD0J1g%3D%3D")
+   (attribute "Manufacturer_Name" "IQD")
+   (attribute "Manufacturer_Part_Number" "LFXTAL062558Reel")
+   (gate
+    (symbol "LFXTAL062558Reel")
+    (pin "CRYSTAL_2" 2 PS)
+    (pin ""  PS)
+   )
+  )
+  (symbol "LFXTAL062558Reel"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 120 100) (pt 120 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 280 100) (pt 280 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 160 140) (pt 160 -140) (pt 240 -140) (pt 240 140) (pt 160 140) (closed))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 280 0) (pt 300 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 120 0) (pt 100 0))
+   )
+   (terminal
+    (body (symbol "PINSHORT") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 140 10) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 60 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 400 0) (rot 0) (mir X) (visible true))
+    (name (pt 140 10) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 60 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "LFXTAL062558Reel"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1 0.6)
+      (pt 1 0.6)
+      (pt 1 -0.6)
+      (pt -1 -0.6)
+      (pt -1 0.6))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2 1.6)
+      (pt 2 1.6)
+      (pt 2 -1.6)
+      (pt -2 -1.6)
+      (pt -2 1.6))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.6 0)
+      (arc (pt -1.600 0.000) (pt -1.600 -0.050) (pt -1.500 0.050) (start 180.0) (sweep 180.0))
+      (pt -1.5 0)
+      (arc (pt -1.500 0.000) (pt -1.600 -0.050) (pt -1.500 0.050) (start 180.0) (sweep .0))
+      (pt -1.6 0))))
+   (leg 1 (pt -0.700 0.000) (padstack 0))
+   (leg 2 (pt 0.700 0.000) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.600 1.100 0 0 90.000))
+   )
+   (model "LFXTAL062558Reel.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

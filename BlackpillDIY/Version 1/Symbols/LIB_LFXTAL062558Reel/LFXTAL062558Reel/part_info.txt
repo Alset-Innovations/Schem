@@ -1,0 +1,9 @@
+Manufacturer=IQD
+PartNumber=LFXTAL062558Reel
+PartCategory=Crystal or Oscillator
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2022-01-06 18:02:37
+Downloaded=2024-03-16 22:56:31
+3D=Y

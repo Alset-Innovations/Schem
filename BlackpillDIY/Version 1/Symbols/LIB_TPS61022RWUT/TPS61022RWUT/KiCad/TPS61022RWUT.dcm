@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS61022RWUT
+D Switching Voltage Regulators 8-A boost converter with 0.5-V ultra-low input voltage 7-VQFN-HR -40 to 125
+K
+F http://www.ti.com/lit/ds/symlink/tps61022.pdf
+$ENDCMP
+#
+#End Doc Library

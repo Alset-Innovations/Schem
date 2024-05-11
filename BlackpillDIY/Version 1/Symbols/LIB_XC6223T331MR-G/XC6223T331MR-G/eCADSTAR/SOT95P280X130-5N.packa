@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "XC6223T331MR-G"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-07-18-15:50:03)
+    (mountForm default
+        (footprintRef "SOT95P280X130-5N")
+        (spec "System")
+    )
+)

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SF-0603SP050-2"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-04-23-02:45:04)
+    (mountForm default
+        (footprintRef "FUSC1608X55N")
+        (spec "System")
+    )
+)

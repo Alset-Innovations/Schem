@@ -1,0 +1,9 @@
+Manufacturer=COILCRAFT
+PartNumber=XFL4020-102MEC
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=1.3
+Released=2019-05-13 07:48:27
+Downloaded=2024-03-18 10:04:50
+3D=N
