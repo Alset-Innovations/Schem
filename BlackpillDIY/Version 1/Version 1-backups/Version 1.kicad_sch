@@ -2874,151 +2874,6 @@
 				)
 			)
 		)
-		(symbol "Jumper:Jumper_2_Open"
-			(pin_numbers hide)
-			(pin_names
-				(offset 0) hide)
-			(exclude_from_sim yes)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "JP"
-				(at 0 2.794 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Jumper_2_Open"
-				(at 0 -2.286 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Jumper, 2-pole, open"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "Jumper SPST"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Jumper* TestPoint*2Pads* TestPoint*Bridge*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Jumper_2_Open_0_0"
-				(circle
-					(center -2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "Jumper_2_Open_0_1"
-				(arc
-					(start 1.524 1.27)
-					(mid 0 1.778)
-					(end -1.524 1.27)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "Jumper_2_Open_1_1"
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "LFXTAL062558Reel:LFXTAL062558Reel"
 			(pin_names hide)
 			(exclude_from_sim no)
@@ -6284,16 +6139,16 @@
 		(uuid "ac2feaf0-896d-44ed-b4e7-915addfcd6c2")
 	)
 	(no_connect
+		(at 26.67 146.05)
+		(uuid "b2aca521-4072-453c-91be-31c5afa27062")
+	)
+	(no_connect
 		(at 60.96 59.69)
 		(uuid "b8af9755-33c9-4881-8c1f-489cded0d511")
 	)
 	(no_connect
 		(at 60.96 80.01)
 		(uuid "bd612b5e-00e0-40cf-8a6d-3ec88a68ed15")
-	)
-	(no_connect
-		(at 57.15 128.27)
-		(uuid "c74dd423-13a0-4d5e-9abf-c4bcb3c16c7e")
 	)
 	(no_connect
 		(at 93.98 67.31)
@@ -6368,16 +6223,6 @@
 			(type default)
 		)
 		(uuid "01b5526f-9cc0-491e-9e2c-85ad3fe58f96")
-	)
-	(wire
-		(pts
-			(xy 264.16 104.14) (xy 269.24 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0275e52e-f913-41b9-b34c-ec1d15ebca4e")
 	)
 	(wire
 		(pts
@@ -6651,16 +6496,6 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 99.06) (xy 269.24 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4247c3c7-6274-4aa4-aecb-07a9e1a03688")
-	)
-	(wire
-		(pts
 			(xy 137.16 38.1) (xy 137.16 50.8)
 		)
 		(stroke
@@ -6841,26 +6676,6 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 93.98) (xy 254 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7051c474-5c1f-4de1-b334-67b450081ccb")
-	)
-	(wire
-		(pts
-			(xy 250.19 99.06) (xy 254 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "711ef293-5517-48f2-bef1-75df4a85b19c")
-	)
-	(wire
-		(pts
 			(xy 78.74 21.59) (xy 83.82 21.59)
 		)
 		(stroke
@@ -6938,16 +6753,6 @@
 			(type default)
 		)
 		(uuid "77a49652-0d67-45b8-8010-4f27338d2e29")
-	)
-	(wire
-		(pts
-			(xy 264.16 93.98) (xy 269.24 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "77f00d7b-9f0d-45cb-ab4f-63fb5c05290b")
 	)
 	(wire
 		(pts
@@ -7211,16 +7016,6 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 88.9) (xy 254 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a75100f6-e5b4-40cc-9c4e-62b3118b5a19")
-	)
-	(wire
-		(pts
 			(xy 44.45 163.83) (xy 44.45 173.99)
 		)
 		(stroke
@@ -7298,16 +7093,6 @@
 			(type default)
 		)
 		(uuid "c0ea703c-a80a-4452-942d-61eb9a8a0b78")
-	)
-	(wire
-		(pts
-			(xy 250.19 104.14) (xy 254 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c276ef43-1d03-4496-9bcc-20920c27fa09")
 	)
 	(wire
 		(pts
@@ -7498,16 +7283,6 @@
 			(type default)
 		)
 		(uuid "f13b0d3e-7493-4929-a04a-6a5dadcdcbb8")
-	)
-	(wire
-		(pts
-			(xy 264.16 88.9) (xy 269.24 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f181396d-29a9-4e94-a254-2eb08492e75e")
 	)
 	(wire
 		(pts
@@ -7896,17 +7671,6 @@
 		)
 		(uuid "525fc677-ee29-4cfa-8b75-e1ee1f62d924")
 	)
-	(label "SCL"
-		(at 250.19 88.9 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5440c0e4-a392-44f7-9a58-202f8c76f929")
-	)
 	(label "EXTINT"
 		(at 26.67 187.96 0)
 		(fields_autoplaced yes)
@@ -7917,17 +7681,6 @@
 			(justify left bottom)
 		)
 		(uuid "58bdca59-03ed-4819-a977-960ebc6c75e3")
-	)
-	(label "SDA"
-		(at 250.19 104.14 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5abfda04-9cb1-4d93-809f-4c678c82605e")
 	)
 	(label "GPIO2"
 		(at 147.32 53.34 0)
@@ -7962,17 +7715,6 @@
 		)
 		(uuid "5f09af21-f60b-4205-bbb2-46f177a1fc68")
 	)
-	(label "SCL"
-		(at 250.19 99.06 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6441f137-32c6-4653-83fa-4c059b8d0960")
-	)
 	(label "GPIO6"
 		(at 147.32 63.5 0)
 		(fields_autoplaced yes)
@@ -7984,17 +7726,6 @@
 		)
 		(uuid "64fd6ab6-59b1-41a4-bd4b-37adbe4fd773")
 	)
-	(label "SDA1"
-		(at 264.16 93.98 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6a7a27b7-6374-45b1-97c8-020cde6c9c36")
-	)
 	(label "RCC_OUT"
 		(at 44.45 62.23 0)
 		(fields_autoplaced yes)
@@ -8005,17 +7736,6 @@
 			(justify left bottom)
 		)
 		(uuid "70cc22d3-a616-4a54-afed-74e1eeb38a52")
-	)
-	(label "SDA"
-		(at 250.19 93.98 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "821a86d2-97ba-4f71-b543-479272049729")
 	)
 	(label "TXD"
 		(at 59.69 187.96 0)
@@ -8116,17 +7836,6 @@
 		)
 		(uuid "ba5f246c-8576-4d71-97cb-bbd8cec6bcfe")
 	)
-	(label "SCL2"
-		(at 264.16 99.06 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "bfbc1eef-13fb-43e5-a446-864757045b83")
-	)
 	(label "RX"
 		(at 189.23 68.58 0)
 		(fields_autoplaced yes)
@@ -8137,17 +7846,6 @@
 			(justify left bottom)
 		)
 		(uuid "c5b704de-25ba-4ec9-9728-b56fefd869aa")
-	)
-	(label "SCL1"
-		(at 264.16 88.9 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "c7df8737-7ff9-4fcc-adea-0d2e43802166")
 	)
 	(label "ESPEN"
 		(at 167.64 125.73 0)
@@ -8193,7 +7891,7 @@
 		)
 		(uuid "d3f83d77-38af-4c25-8f2f-dc186536abaa")
 	)
-	(label "SCL"
+	(label "GPIO19"
 		(at 189.23 66.04 0)
 		(fields_autoplaced yes)
 		(effects
@@ -8214,17 +7912,6 @@
 			(justify left bottom)
 		)
 		(uuid "dcb60e95-09af-4d6e-af26-46571fd4fa54")
-	)
-	(label "SDA2"
-		(at 264.16 104.14 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e3233b4b-e944-4891-9bd2-95b9fdb6914c")
 	)
 	(label "SWCLK"
 		(at 95.25 74.93 0)
@@ -8248,7 +7935,7 @@
 		)
 		(uuid "ea352ec7-ad8d-4c10-83d3-b9697ddbb187")
 	)
-	(label "SDA"
+	(label "GPIO18"
 		(at 189.23 63.5 0)
 		(fields_autoplaced yes)
 		(effects
@@ -8294,7 +7981,7 @@
 	)
 	(global_label "TIM1_CH1"
 		(shape input)
-		(at 57.15 140.97 180)
+		(at 57.15 133.35 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8304,7 +7991,7 @@
 		)
 		(uuid "019fbd19-58ee-40f8-8639-4f2415cbf260")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 45.1539 140.97 0)
+			(at 45.1539 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8536,7 +8223,7 @@
 	)
 	(global_label "TIM1_CH3"
 		(shape input)
-		(at 57.15 146.05 180)
+		(at 57.15 143.51 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8546,7 +8233,7 @@
 		)
 		(uuid "48b7f42b-c46f-4cd6-adc5-5a7499b61de5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 45.1539 146.05 0)
+			(at 45.1539 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8734,7 +8421,7 @@
 	)
 	(global_label "TIM1_CH2N"
 		(shape input)
-		(at 57.15 135.89 180)
+		(at 57.15 140.97 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8744,7 +8431,7 @@
 		)
 		(uuid "a89bf6d1-1523-423b-8d4e-9803c00754fe")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 43.8234 135.89 0)
+			(at 43.8234 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8756,7 +8443,7 @@
 	)
 	(global_label "TIM1_CH1N"
 		(shape input)
-		(at 57.15 133.35 180)
+		(at 57.15 135.89 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8766,7 +8453,7 @@
 		)
 		(uuid "ac960f62-7022-4db3-94f9-644a8d0a40ee")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 43.8234 133.35 0)
+			(at 43.8234 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8778,7 +8465,7 @@
 	)
 	(global_label "TIM1_CH3N"
 		(shape input)
-		(at 57.15 138.43 180)
+		(at 57.15 146.05 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8788,7 +8475,7 @@
 		)
 		(uuid "b7ee683d-e425-48bf-8520-c4c1bbb707b8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 43.8234 138.43 0)
+			(at 43.8234 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8866,29 +8553,29 @@
 	)
 	(global_label "I2C2_SDA"
 		(shape bidirectional)
-		(at 26.67 146.05 0)
+		(at 57.15 128.27 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "ca22e5e2-ae8b-432c-b081-33b8a1c8a939")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 39.596 146.05 0)
+			(at 44.224 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
 	)
 	(global_label "TIM1_CH2"
 		(shape input)
-		(at 57.15 143.51 180)
+		(at 57.15 138.43 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8898,7 +8585,7 @@
 		)
 		(uuid "ce341038-bd26-4557-b905-6ee4d388ec72")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 45.1539 143.51 0)
+			(at 45.1539 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8993,7 +8680,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND2"
 			(at 147.32 17.78 0)
 			(effects
 				(font
@@ -9229,7 +8916,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND1"
 			(at 95.25 35.56 0)
 			(effects
 				(font
@@ -9362,7 +9049,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND2"
 			(at 137.16 68.5799 90)
 			(effects
 				(font
@@ -9405,74 +9092,6 @@
 			(project "Version 1"
 				(path "/4170e206-ce02-4727-a7f4-15bc39a7c7de"
 					(reference "#PWR010")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:Jumper_2_Open")
-		(at 259.08 104.14 0)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "11a0d204-91b5-479e-9d2b-2f8d79e1e81c")
-		(property "Reference" "JP4"
-			(at 259.08 101.092 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Jumper_2_Open"
-			(at 259.08 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 259.08 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 259.08 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Jumper, 2-pole, open"
-			(at 259.08 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "43f4c486-5446-47be-94dd-0ad2db803999")
-		)
-		(pin "2"
-			(uuid "54da14c3-a688-49b6-94a0-afb191d60907")
-		)
-		(instances
-			(project "Version 1"
-				(path "/4170e206-ce02-4727-a7f4-15bc39a7c7de"
-					(reference "JP4")
 					(unit 1)
 				)
 			)
@@ -9540,74 +9159,6 @@
 			(project "Version 1"
 				(path "/4170e206-ce02-4727-a7f4-15bc39a7c7de"
 					(reference "#PWR023")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Jumper:Jumper_2_Open")
-		(at 259.08 93.98 0)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "150da9a2-48fc-4f22-a637-703e008fcc5b")
-		(property "Reference" "JP2"
-			(at 259.08 90.932 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Jumper_2_Open"
-			(at 259.08 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 259.08 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 259.08 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Jumper, 2-pole, open"
-			(at 259.08 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dee4be3e-5d27-42de-a2c8-9d958953b99e")
-		)
-		(pin "2"
-			(uuid "25100aa4-6543-42af-8f4f-4c4d369bc1e6")
-		)
-		(instances
-			(project "Version 1"
-				(path "/4170e206-ce02-4727-a7f4-15bc39a7c7de"
-					(reference "JP2")
 					(unit 1)
 				)
 			)
@@ -9827,74 +9378,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:Jumper_2_Open")
-		(at 259.08 99.06 0)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1a58e23e-fb24-4cf5-9737-e399e62f4315")
-		(property "Reference" "JP3"
-			(at 259.08 96.012 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Jumper_2_Open"
-			(at 259.08 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 259.08 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 259.08 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Jumper, 2-pole, open"
-			(at 259.08 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c2f8194f-70e8-4cb2-95b0-7fb0f06ef023")
-		)
-		(pin "2"
-			(uuid "a4e531e6-d9df-4287-afdc-9c4b516f575a")
-		)
-		(instances
-			(project "Version 1"
-				(path "/4170e206-ce02-4727-a7f4-15bc39a7c7de"
-					(reference "JP3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 49.53 44.45 90)
 		(unit 1)
@@ -9980,7 +9463,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND2"
 			(at 127 115.57 0)
 			(effects
 				(font
@@ -10045,7 +9528,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND4"
 			(at 92.202 202.184 0)
 			(effects
 				(font
@@ -10111,7 +9594,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND4"
 			(at 130.048 193.04 90)
 			(effects
 				(font
@@ -10266,7 +9749,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND1"
 			(at 34.29 107.9499 90)
 			(effects
 				(font
@@ -10900,7 +10383,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND2"
 			(at 207.01 114.3 0)
 			(effects
 				(font
@@ -10965,7 +10448,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND4"
 			(at 108.966 207.264 0)
 			(effects
 				(font
@@ -11112,7 +10595,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND1"
 			(at 41.91 39.3699 90)
 			(effects
 				(font
@@ -11383,7 +10866,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND4"
 			(at 97.79 176.53 0)
 			(effects
 				(font
@@ -11449,7 +10932,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND2"
 			(at 171.45 81.28 0)
 			(effects
 				(font
@@ -11652,7 +11135,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND1"
 			(at 27.94 55.8799 90)
 			(effects
 				(font
@@ -12028,7 +11511,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND3"
 			(at 24.13 176.53 0)
 			(effects
 				(font
@@ -12095,7 +11578,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND2"
 			(at 193.04 114.3 0)
 			(effects
 				(font
@@ -12295,7 +11778,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND1"
 			(at 21.59 49.5299 90)
 			(effects
 				(font
@@ -12428,7 +11911,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND1"
 			(at 77.47 124.46 0)
 			(effects
 				(font
@@ -12749,7 +12232,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND2"
 			(at 160.02 36.8299 90)
 			(effects
 				(font
@@ -12816,7 +12299,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND3"
 			(at 30.48 185.4199 90)
 			(effects
 				(font
@@ -12883,7 +12366,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND1"
 			(at 30.48 130.8099 90)
 			(effects
 				(font
@@ -13018,7 +12501,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND2"
 			(at 137.16 17.78 0)
 			(effects
 				(font
@@ -13084,7 +12567,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND1"
 			(at 21.59 62.2299 90)
 			(effects
 				(font
@@ -13658,74 +13141,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:Jumper_2_Open")
-		(at 259.08 88.9 0)
-		(unit 1)
-		(exclude_from_sim yes)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b7303caf-4f35-4b4f-a5c0-95c2ac6d2465")
-		(property "Reference" "JP1"
-			(at 259.08 85.852 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Jumper_2_Open"
-			(at 259.08 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 259.08 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 259.08 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Jumper, 2-pole, open"
-			(at 259.08 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b55579c9-46a9-4610-b4d6-2c513bb4b454")
-		)
-		(pin "2"
-			(uuid "b0249907-10a7-4ee1-9fcc-96c58c2024f1")
-		)
-		(instances
-			(project "Version 1"
-				(path "/4170e206-ce02-4727-a7f4-15bc39a7c7de"
-					(reference "JP1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 48.26 72.39 90)
 		(unit 1)
@@ -14042,7 +13457,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND1"
 			(at 45.72 55.8799 90)
 			(effects
 				(font
@@ -14454,7 +13869,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND3"
 			(at 46.99 208.28 0)
 			(effects
 				(font
@@ -14520,7 +13935,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND4"
 			(at 86.36 176.53 0)
 			(effects
 				(font
@@ -14586,7 +14001,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND1"
 			(at 38.1 44.4499 90)
 			(effects
 				(font
@@ -14654,7 +14069,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND2"
 			(at 171.45 135.8899 90)
 			(effects
 				(font
@@ -14721,7 +14136,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND3"
 			(at 35.56 176.53 0)
 			(effects
 				(font
@@ -14787,7 +14202,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND1"
 			(at 36.83 72.3899 90)
 			(effects
 				(font
@@ -15145,7 +14560,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND1"
 			(at 53.34 130.8099 90)
 			(effects
 				(font

@@ -6,5 +6,4 @@
   (lib (name "LIB_TPS61022RWUT")(type "KiCad")(uri "${KIPRJMOD}/Symbols/LIB_TPS61022RWUT/TPS61022RWUT/KiCad")(options "")(descr ""))
   (lib (name "LIB_XC6223T331MR-G")(type "KiCad")(uri "${KIPRJMOD}/Symbols/LIB_XC6223T331MR-G/XC6223T331MR-G/KiCad")(options "")(descr ""))
   (lib (name "LIB_XFL4020-102MEC")(type "KiCad")(uri "${KIPRJMOD}/Symbols/LIB_XFL4020-102MEC")(options "")(descr "")(disabled))
-  (lib (name "Symbols")(type "KiCad")(uri "${KIPRJMOD}/Symbols")(options "")(descr ""))
 )

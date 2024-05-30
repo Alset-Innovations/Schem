@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LFXTAL062558Reel")(type "KiCad")(uri "${KIPRJMOD}/Symbols/LIB_LFXTAL062558Reel/LFXTAL062558Reel/KiCad/LFXTAL062558Reel.kicad_sym")(options "")(descr ""))
+)
